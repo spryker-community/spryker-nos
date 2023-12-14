@@ -1,8 +1,8 @@
 repo_name: spryker-community/spryker-nos
-report_id: ab8ae5946e15a5289491133d85c435c7
+report_id: eae57b405fb15cf81734f3a61a228c10
 repo_type: Public
-timestamp: '2023-11-09T17:23:11+00:00'
-requested_by: andreaspenz
+timestamp: '2023-12-14T09:51:31+00:00'
+requested_by: gxjansen
 provider: github
 branch: master
 detected_tools_count: 17
@@ -37,7 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/spryker-community/spryker-nos/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Andreas Penz
   last_updated_on: 2023-06-18 17:31:56.000000000 Z
@@ -70,7 +70,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
-  detection_source: ".github/workflows/tests.yml"
+  detection_source: ".github/workflows/publish.yml"
   last_updated_by: Andreas Penz
   last_updated_on: 2023-06-19 07:27:58.000000000 Z
 - name: Prettier
@@ -83,7 +83,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/spryker-community/spryker-nos/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Andreas Penz
   last_updated_on: 2023-06-18 09:55:49.000000000 Z
@@ -96,7 +96,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/3509/logo.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/spryker-community/spryker-nos/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-06-21 08:35:47.000000000 Z
@@ -121,7 +121,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16147/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/spryker-community/spryker-nos/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: andreaspenz
   last_updated_on: 2023-08-06 15:29:08.000000000 Z
@@ -135,7 +135,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15952/default_4040fefea2f98006727f63d042275b96a275ab2d.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/spryker-community/spryker-nos/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Andreas Penz
   last_updated_on: 2023-06-25 18:29:25.000000000 Z
@@ -149,7 +149,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17950/default_e0b07170ab7d7ea66954ff35fdeaae5255c4c0aa.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/spryker-community/spryker-nos/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: andreaspenz
   last_updated_on: 2023-08-06 15:29:08.000000000 Z
@@ -163,7 +163,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16084/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/spryker-community/spryker-nos/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: andreaspenz
   last_updated_on: 2023-08-06 15:29:08.000000000 Z
@@ -177,7 +177,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18264/default_e883f2ab27e3b57d1e2e1d1474b09e7351e11b54.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/spryker-community/spryker-nos/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Andreas Penz
   last_updated_on: 2023-06-25 18:29:25.000000000 Z
@@ -191,7 +191,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/spryker-community/spryker-nos/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: andreaspenz
   last_updated_on: 2023-08-06 15:29:08.000000000 Z
@@ -205,7 +205,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/spryker-community/spryker-nos/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: andreaspenz
   last_updated_on: 2023-08-06 15:29:08.000000000 Z
@@ -219,7 +219,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/spryker-community/spryker-nos/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Andreas Penz
   last_updated_on: 2023-06-23 14:04:06.000000000 Z
